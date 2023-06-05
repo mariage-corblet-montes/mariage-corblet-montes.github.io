@@ -8,4 +8,5 @@ npm install
 brew install hugo
 hugo serve --themesDir themes --panicOnWarning
 hugo serve --themesDir themes --disableFastRender
+hugo serve  --navigateToChanged
 ```

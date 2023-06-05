@@ -3,7 +3,7 @@ metaDataFormat = "yaml"
 title = "Blist Multilingual Theme"
 theme = "blist"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "fr"
 DefaultContentLanguageInSubdir = true
 
 [languages]
@@ -12,10 +12,11 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-      introTitle = "Hey! I'm Katheryn Fox"
-      introSubtitle = "26 y/o junior developer who enjoys social card games, blogging and painting"
-      introPhoto = "/picture.jpg"
-      logo = "/optim2d_bokeh.png"
+        introTitle = "Wedding Organisation Corblet Montes - 29th June 2024"
+        introSubtitle = "You will find below more organizational details."
+        introPhoto = "/Pauline_et_Thibaut_dans_le_bus.jpg"
+        logo = "/optim2d_bokeh.png"
+
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
@@ -35,42 +36,17 @@ DefaultContentLanguageInSubdir = true
         name = "Top Post"
         url = "/en/blog/emoji-support/"
         weight = 4
-
-  [languages.de]
-    contentDir = "content/de" # Deutsch
-    weight = 2
-    languageName = "Deutsch"
-    title = "Blist (mehrsprachig)"
-    description = "Modernes Blog-Theme für Ihre Hugo-Site."
-    [languages.de.params]
-      introTitle = "Hallo, ich bin Katheryn Fox"
-      introSubtitle = "26-jährige Junior-Entwicklerin, die Spaß an sozialen Kartenspielen, Bloggen und Malen hat"
-      introPhoto = "/picture.jpg"
-      logo = "/optim2d_bokeh.png"
-    [[languages.de.menu.main]]
-        name = "Blog"
-        url = "blog"
-        weight = 1
-
-    [[languages.de.menu.main]]
-        name = "Über mich"
-        url = "page/about/"
-        weight = 2
-
-    [[languages.de.menu.main]]
-        name = "Tags"
-        url = "tags"
-        weight = 3
         
   [languages.fr]
     contentDir = "content/fr" #French
     weight = 1
     languageName = "Français"
     [languages.fr.params]
-      introTitle = "Salut! Je suis Katheryn Fox"
-      introSubtitle = "Développeuse junior de 26 ans qui adore les jeux de société, le blogging et la peinture"
-      introPhoto = "/picture.jpg"
+      introTitle = "Organisation Mariage Corblet Montes - 29 Juin 2024"
+      introSubtitle = "Vous trouverez plus bas plus de détails concernant l'organisation."
+      introPhoto = "/Pauline_et_Thibaut_dans_le_bus.jpg"
       logo = "/optim2d_bokeh.png"
+
     [[languages.fr.menu.main]]
         name = "Blog"
         url = "blog"
@@ -85,16 +61,11 @@ DefaultContentLanguageInSubdir = true
         name = "Tags"
         url = "tags"
         weight = 3
-        
-  [languages.dy]
-    contentDir = "content/dy" #Example language
-    weight = 3
-    languageName = "Test Language"
 
 [params]
 # Color theme.
 #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "forest"
+  color_theme = "ocean"
   # Enable the darkmode toggle in header
   darkModeToggle = true
   
@@ -115,8 +86,6 @@ DefaultContentLanguageInSubdir = true
     "author"
   ]
 
-  # Custom copyright - optional
-  copyright = "Copyright © 2021 - Katheryn Fox · All rights reserved"
   favicon = "/favicon.svg"
 
   # Color for the intro details and social links block, not applicable for dark mode
@@ -129,7 +98,7 @@ DefaultContentLanguageInSubdir = true
 
   # Used to hide the post metadata such as posted date, reading time and word count
   # Can be used at site level or page level
-  hideMeta = false
+  hideMeta = true
 
   # To hide "Other languages" option if the post is available in multiple languages
   # Can be used at site level or page level
@@ -142,7 +111,8 @@ DefaultContentLanguageInSubdir = true
   # Hides the thumbnail in post view
   # Thumbnails in home and blog pages will still be shown
   # This setting can also be in page's markdown file
-  hidePageThumbnail = false
+  hidePageThumbnail = true
+  # hidePageThumbnail = false
 
 # Comments system
 [params.comments]

@@ -1,11 +1,14 @@
 ---
-author: "Hugo Authors"
-title: "Markdown Syntax Guide"
-description: "Beispielartikel, der die grundlegende Markdown-Syntax und Formatierung für HTML-Elemente zeigt."
-tags: ["markdown", "css", "html"]
+author: "Pauline et Thibaut"
+title: "Lieu du mariage"
+description: "Plus d'informations sur le lieu pour vous faire patienter."
+tags: ["Villersexel", "Château"]
 date: 2021-07-14
-thumbnail: https://picsum.photos/id/1019/500/200
+thumbnail: https://lh3.googleusercontent.com/p/AF1QipN8tdVQTrnGqqHA1ws0feqY4c3jOSdomMInIqEa=s1360-w1360-h1020
 ---
+
+Plus d'informations sur le lieu pour vous faire patienter.
+
 
 Dieser Artikel bietet ein Beispiel für die grundlegende Markdown-Syntax, die in Hugo-Inhaltsdateien verwendet werden kann, und zeigt auch, ob grundlegende HTML-Elemente mit CSS in einem Hugo-Theme dekoriert sind.
 

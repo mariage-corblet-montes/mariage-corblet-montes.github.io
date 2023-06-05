@@ -4,7 +4,7 @@ title: "Markdown Syntax Guide"
 description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags: ["markdown", "css", "html"]
 date: 2021-07-14
-thumbnail: https://picsum.photos/id/1019/500/200
+thumbnail: https://lh3.googleusercontent.com/p/AF1QipN8tdVQTrnGqqHA1ws0feqY4c3jOSdomMInIqEa=s1360-w1360-h1020
 ---
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
