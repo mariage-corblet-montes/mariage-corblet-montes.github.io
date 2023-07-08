@@ -12,8 +12,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-        introTitle = "Pauline & Thibaut's Wedding\ *June 29-30 2024*"
-        introSubtitle = "You will find below more organizational details."
+        introTitle = "Pauline & Thibaut's Wedding"
+        introSubtitle = "June 29-30 2024"
         introPhoto = "/Pauline_et_Thibaut_dans_le_bus.jpg"
         logo = "/optim2d_bokeh.png"
     
@@ -27,8 +27,8 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "Français"
     [languages.fr.params]
-      introTitle = "Mariage Pauline & Thibaut\ *29-30 Juin 2024*"
-      introSubtitle = "Vous trouverez plus bas plus de détails concernant l'organisation."
+      introTitle = "Mariage Pauline & Thibaut"
+      introSubtitle = "29-30 Juin 2024"
       introPhoto = "/Pauline_et_Thibaut_dans_le_bus.jpg"
       logo = "/optim2d_bokeh.png"
 
