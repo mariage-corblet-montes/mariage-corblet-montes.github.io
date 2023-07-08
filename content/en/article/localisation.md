@@ -7,4 +7,4 @@ date: 2021-07-14
 thumbnail: https://lh3.googleusercontent.com/p/AF1QipN8tdVQTrnGqqHA1ws0feqY4c3jOSdomMInIqEa=s1360-w1360-h1020
 ---
 
-More information about the venue to keep you waiting.
+The [château de Villersexel](https://www.villersexel.com/) is located in the center of a village of the same name.

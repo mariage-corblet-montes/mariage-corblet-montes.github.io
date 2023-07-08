@@ -8,4 +8,4 @@ tags: ["transport", "train", "avion", "voiture"]
 thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVKnA_S_qRS6BeEeVIxYlgTVUoAfjiRsw8Iw&usqp=CAU
 ---
 
-Useful details concerning transport.
+More information soon.
