@@ -12,7 +12,7 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "English"
     [languages.en.params]
-        introTitle = "Wedding Organisation Corblet Montes - 29th June 2024"
+        introTitle = "Wedding Organisation Pauline & Thibaut - June 29-30 2024"
         introSubtitle = "You will find below more organizational details."
         introPhoto = "/Pauline_et_Thibaut_dans_le_bus.jpg"
         logo = "/optim2d_bokeh.png"
@@ -27,7 +27,7 @@ DefaultContentLanguageInSubdir = true
     weight = 1
     languageName = "Français"
     [languages.fr.params]
-      introTitle = "Organisation Mariage Corblet Montes - 29 Juin 2024"
+      introTitle = "Organisation Mariage Pauline & Thibaut - 29-30 Juin 2024"
       introSubtitle = "Vous trouverez plus bas plus de détails concernant l'organisation."
       introPhoto = "/Pauline_et_Thibaut_dans_le_bus.jpg"
       logo = "/optim2d_bokeh.png"
@@ -77,7 +77,7 @@ DefaultContentLanguageInSubdir = true
 
   # To hide "Other languages" option if the post is available in multiple languages
   # Can be used at site level or page level
-  hideOtherLanguages = false
+  hideOtherLanguages = true
 
   # Add support for Table of contents
   # Can be added to a page level also in markdown frontmatter
