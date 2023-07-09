@@ -8,4 +8,6 @@ tags: ["transport", "train", "avion", "voiture"]
 thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVKnA_S_qRS6BeEeVIxYlgTVUoAfjiRsw8Iw&usqp=CAU
 ---
 
-More information soon.
+**By car**: 40 minutes from Montbéliard, 30 minutes from Vesoul, 20 minutes from Lure.
+
+**En train**: the closest train station is in Lure.
