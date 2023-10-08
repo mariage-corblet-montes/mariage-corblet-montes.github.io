@@ -7,5 +7,4 @@ date: 2021-07-14
 thumbnail: https://lh3.googleusercontent.com/p/AF1QipN8tdVQTrnGqqHA1ws0feqY4c3jOSdomMInIqEa=s1360-w1360-h1020
 ---
 
-L'adresse du château de Villersexel: 63 Pl. de l'Hôtel de ville, 70110 Villersexel, France.
-Le [château de Villersexel](https://www.villersexel.com/) se situe au coeur du village du même nom.
+[Château de Villersexel](https://www.villersexel.com/): 63 Pl. de l'Hôtel de ville, 70110 Villersexel, France.
