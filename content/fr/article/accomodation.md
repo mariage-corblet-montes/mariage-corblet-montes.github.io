@@ -1,8 +1,7 @@
-	---
+---
 author: "Pauline Corblet et Thibaut Montes"
 title: "L'hébergement"
 date: 2021-07-13
-# description: "Infos utiles concernant l'hébergement."
 tags: ["hébergement", "hotel", "camping", "airbnb", "gite"]
 thumbnail: "/hobbit_door.jpeg"
 ---

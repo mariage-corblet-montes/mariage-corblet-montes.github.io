@@ -2,9 +2,8 @@
 author: "Pauline Corblet and Thibaut Montes"
 title: "Accommodation"
 date: 2021-07-13
-# description: "Useful information about accommodation."
 tags: ["accommodation", "hotel", "camping", "airbnb"]
-thumbnail: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH5kXJ5k9-_1dsgdCitoMcAW7hVTd6ukhYPJruKYjbaY8DgBAp
+thumbnail:  "/hobbit_door.jpeg"
 ---
 
 You will find below a list of campgrounds and hotels available in Villersexel. There are other nice options in the region, but these have the advantage of being right next to the castle. We recommend booking as soon as possible, as the village is quite popular in the summer.
