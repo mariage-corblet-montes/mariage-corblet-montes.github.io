@@ -5,4 +5,19 @@ date: 2023-10-08
 thumbnail:  "/orga.jpeg"
 ---
 
-This page will be updated soon! Plan to arrive in Villersexel no later than Saturday, June 29th, in the morning. The ceremony will take place in the afternoon. It will be followed by a reception, dinner, and a party lasting into the night! A brunch will be served on Sunday at noon.
+The planning may change slightly depending on the weather. 
+
+## Saturday
+3:00pm: Arrival of the guests.
+
+4:00pm: Wedding ceremony - in the glade.
+
+5:00pm: Photo session with the guests - in the park.
+
+6:00pm: Cocktail hour - in the park.
+
+8:00pm: Dinner and party - at the Orangery.
+
+## Sunday
+
+From 12:00pm onwards: brunch - in the castle's lounges.

@@ -5,4 +5,20 @@ date: 2021-10-08
 thumbnail: "/orga.jpeg"
 ---
 
-Cette page sera mise à jour bientôt! Prévoyez d'arriver à Villersexel au plus tard samedi 29 juin dans la matinée. La cérémonie aura lieu dans l'après-midi. Elle sera suivie d'un vin d'honneur, d'un dîner et de la fête jusqu'au bout de la nuit! Un brunch sera servi dimanche midi.
+Le programme pourra changer en fonction de la météo.
+
+## Samedi
+
+15h: Arrivée des invités
+
+16h: Cérémonie laïque - dans le bois.
+
+17h: Séance photo avec les invités - dans le parc.
+
+18h: Vin d'honneur - dans le parc.
+
+20h: Dîner et soirée - à l'Orangerie.
+
+## Dimanche
+
+A partir de 12h: brunch - dans les salons du château.
