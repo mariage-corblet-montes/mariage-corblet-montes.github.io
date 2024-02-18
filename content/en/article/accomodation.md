@@ -16,7 +16,6 @@ Address: 92 Rue du Chapeau Chinois, 70110 Villersexel
 
 Mobil-homes, chalets, lodges, and even space to pitch your tent!
 
-The campground also offers a cottage for 35 people, please contact us directly if you are interested, as we plan to reserve it.
 
 ## Logis Hôtel Auberge de la Terrasse
 

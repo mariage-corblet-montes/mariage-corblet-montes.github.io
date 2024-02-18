@@ -16,7 +16,6 @@ Adresse: 92 Rue du Chapeau Chinois, 70110 Villersexel
 
 Mobil-homes, chalets, lodges et même de quoi planter votre tente! 
 
-**Le camping propose aussi un gîte pour 35 personnes, contactez-nous directement si vous êtes intéressés, nous prévoyons de le réserver.**
 
 ## Logis Hôtel Auberge de la Terrasse
 
